@@ -6,7 +6,13 @@
 
 ## Usage
 
-First add configuration in \_config.yml from your hexo project.
+Install
+
+```
+npm i hexo-image-lazyloader -S
+```
+
+Add configuration in \_config.yml from your hexo project.
 
 ```
 lazyload:
