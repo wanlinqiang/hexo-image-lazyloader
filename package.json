@@ -1,5 +1,11 @@
 {
   "name": "hexo-image-lazyloader",
   "version": "1.0.0",
-  "main": "index"
+  "description": "A image lazy loader plugin for Hexo.",
+  "main": "index",
+  "dependencies": {
+    "hexo-fs": "^3.1.0"
+  },
+  "author": "wanlinqiang",
+  "license": "ISC"
 }
