@@ -1,6 +1,6 @@
 {
   "name": "hexo-image-lazyloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A image lazy loader plugin for Hexo.",
   "main": "index",
   "dependencies": {
@@ -13,5 +13,9 @@
     "lazyloader",
     "image"
   ],
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanlinqiang/hexo-image-lazyloader.git"
+  },
+  "license": "MIT"
 }
